@@ -1,3 +1,3 @@
 ## Projeto da faculdade
-### Empresa: Fabrilia 
+### Empresa: Fabrilia Software
 ### Nome Software: Data Procurati
