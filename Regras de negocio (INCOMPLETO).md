@@ -1,4 +1,4 @@
-### 30 Regras de Negocio (INCOMPLETO)
+### Regras de Negocio (INCOMPLETO)
 
     1 - Discontos não são aditivos.
     2 - Discontos não devem ser maiores que o preço do produto.
