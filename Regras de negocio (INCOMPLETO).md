@@ -43,7 +43,7 @@
     37 - No caso de cancelamento do contrato sem aviso previo havera uma multa predefinida.
     38 - Caso cliente deseje cancelar o contrato devera solicitar o cancelamento previamente.
     39 - No caso de cancelamento de contrato ou termino de serviço o cliente tera acesso ao sistema mas não suas funções.
-    40 -
+    40 - Não nos resposabilizamos como o software e usado pelo cliente e suas consequencias.
 
 ### Gustavo Regras
 
