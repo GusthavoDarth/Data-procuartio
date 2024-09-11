@@ -42,7 +42,7 @@
     36 - No caso de não pagamento de multa previa, o mesmo podera ser aumento e no caso de seu não pagamento o software ficara indisponivel ate o seu pagamento.
     37 - No caso de cancelamento do contrato sem aviso previo havera uma multa predefinida.
     38 - Caso cliente deseje cancelar o contrato devera solicitar o cancelamento previamente.
-    39 -
+    39 - No caso de cancelamento de contrato ou termino de serviço o cliente tera acesso ao sistema mas não suas funções.
     40 -
 
 ### Gustavo Regras
