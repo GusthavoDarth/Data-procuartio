@@ -1,4 +1,4 @@
-### Regras de Negocio (COMPLETO)
+### Regras de Negocio
 
     1 - Descontos não são aditivos.
     2 - Descontos não devem ser maiores que o preço do produto.
